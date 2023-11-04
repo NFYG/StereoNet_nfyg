@@ -4,9 +4,10 @@
 
 A stereo depth estimation model
 
-基于文献 "Stereonet-Guided hierarchical refinement for real-time edge-aware depth prediction"
+基于文献 "Stereonet-Guided hierarchical refinement for real-time edge-aware depth prediction"，同时也参考了其它github项目的代码
 
-based on paper "Stereonet-Guided hierarchical refinement for real-time edge-aware depth prediction"
+based on paper "Stereonet-Guided hierarchical refinement for real-time edge-aware depth prediction", also refers to other github projects code
+
 
 训练采用sceneflow数据集练了40epoch
 
