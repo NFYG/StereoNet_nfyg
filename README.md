@@ -1,5 +1,11 @@
 # StereoNet_nfyg
 
+如果喜欢/有帮助,请关注 BiliBili 逆风引弓 https://space.bilibili.com/212529
+
+If you like it/find it helpful, please follow BiliBili 逆风引弓 https://space.bilibili.com/212529
+
+#############################################################################################################
+
 一个双目深度估计模型
 
 A stereo depth estimation model
